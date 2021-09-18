@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "894983889788",
+    "project_id": "flash-chat-93ea0",
+    "storage_bucket": "flash-chat-93ea0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894983889788:android:8fea84ffffded1cf69baf9",
+        "android_client_info": {
+          "package_name": "co.SyndraDewar.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894983889788-lrp2dc80m8bc980dfe6q4tsubf4c8on8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1q4Dw-Rzl37IqBOtuiJWQbQtP0dAd78U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894983889788-lrp2dc80m8bc980dfe6q4tsubf4c8on8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
